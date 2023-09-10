@@ -1,0 +1,15 @@
+*.png
+*.jpg
+*.jpeg
+.idea/
+__pycache__/
+build/
+
+# Cython
+*.pyc
+*.pyd
+*.pyo
+*.so
+*.o
+*.c
+
